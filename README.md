@@ -1,2 +1,2 @@
-# Python_Data_Mining_e_Deep_Learning
- repositório para projetos de data mining e deep learning em python
+# Python_Data_Mining
+ repositório para projetos de data mining em python
