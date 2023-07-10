@@ -16,9 +16,3 @@ Esperamos que este repositório seja útil tanto para entusiastas da Data Mining
 Observação: Por favor, respeite as licenças e direitos autorais dos projetos presentes neste repositório.
 
 Desfrute da programação! 😄🚀
-
-
-
-
-
-Regenerate r
